@@ -5,6 +5,8 @@
  */
 package projecttest;
 
+import javax.swing.*;
+
 /**
  *
  * @author Joanna P
@@ -24,5 +26,5 @@ public class ProjectTest {
         System.out.println("Smoking that is");
 
     }
-    
+    private JPanel p;
 }
