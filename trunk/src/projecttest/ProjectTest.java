@@ -28,4 +28,5 @@ public class ProjectTest {
 
     }
     private JPanel p;
+    private JButton b;
 }
