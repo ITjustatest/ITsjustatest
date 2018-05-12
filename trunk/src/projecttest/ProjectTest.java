@@ -28,6 +28,6 @@ public class ProjectTest {
 
     }
     private JPanel p;
-    private JButton b;
+    private JButton b, b0;
     private JTextField tf;
 }
