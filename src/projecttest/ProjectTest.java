@@ -17,6 +17,7 @@ public class ProjectTest {
     public static void main(String[] args) {
         System.out.println("Hello");
         System.out.println("Helloto the Team");
+        System.out.println("Helloto the Team");
     }
     
 }
