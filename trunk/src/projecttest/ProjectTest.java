@@ -20,6 +20,7 @@ public class ProjectTest {
         System.out.println("Helloto the Team");
         System.out.println("Last Changes");
         System.out.println("Hello Joanna, Andromeda, this is user 3");
+        System.out.println("Whatever I quit");
 
     }
     
