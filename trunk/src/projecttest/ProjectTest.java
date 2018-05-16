@@ -18,15 +18,6 @@ public class ProjectTest {
      */
     public static void main(String[] args) {
         System.out.println("Hello");
-        System.out.println("Helloto the Team");
-        System.out.println("Helloto the Team");
-        System.out.println("Last Changes");
-        System.out.println("Hello Joanna, Andromeda, this is user 3");
-        System.out.println("Whatever I quit");
-        System.out.println("Smoking that is");
-        System.out.println("HELP ME");
-        System.out.println("Joanna, hi !");
-        System.out.println("It's me");
 
     }
     private JPanel p;
