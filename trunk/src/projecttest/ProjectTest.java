@@ -26,6 +26,7 @@ public class ProjectTest {
         System.out.println("Smoking that is");
         System.out.println("HELP ME");
         System.out.println("Joanna, hi !");
+        System.out.println("It's me");
 
     }
     private JPanel p;
