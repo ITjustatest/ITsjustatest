@@ -18,6 +18,7 @@ public class ProjectTest {
         System.out.println("Hello");
         System.out.println("Hello");
         System.out.println("My new commit");
+        System.out.println("Goodbye");
         
     }
     
